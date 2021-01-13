@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component
+# <a href="https://fbueno12.github.io/profile-card-challenge/src/" target="_BLANK">Frontend Mentor - Profile card component</a>
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
